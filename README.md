@@ -91,6 +91,30 @@ http://localhost/website-tiket-kereta
 
 ## Tampilan Aplikasi
 
+### Halaman Pengunjung
+![dashboard](screenshots/dashboard-pengunjung.png)
+
+### Halaman Admin
+![dashboard](screenshots/dashboard-admin.png)
+
+### Login
+![login](screenshots/login.png)
+
+### Daftar Tiket
+![tiket](screenshots/daftar-tiket.png)
+
+### Pemesanan
+![pemesanan](screenshots/pemesanan.png)
+
+### Detail Pemesanan
+![pemesanan](screenshots/detail-pemesanan.png)
+
+### konfirmasi pemesanan
+![pemesanan](screenshots/detail-pemesanan2.png)
+
+### Laporan
+![laporan](screenshots/laporan.png)
+
 Website ini memiliki tampilan yang responsif dan mudah digunakan, sehingga memudahkan pengguna dalam melakukan pencarian jadwal serta pemesanan tiket kereta.
 
 
